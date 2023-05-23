@@ -13,4 +13,7 @@ My name is PenguinCraft and I am a very knowledgeable person. I currently live i
 
 ## 🎈 My Projects
 
+**Update**: My Discord bot Ultra is currently not available anymore. Development stopped in Summer 2022. Thanks for all support on the project over the years. 
+
 I currently work on my Discord bot [Ultra](https://dsc.gg/ultra) which includes moderation, utility, and fun commands.
+
