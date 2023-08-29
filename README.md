@@ -1,6 +1,6 @@
 # 👋Hello!
 
-My name is PenguinCraft and I am a very knowledgeable person. I currently live in the USA.
+My name is PenguinCraft and I am a developer. I currently reside in the USA.
 
 ## 😎 Tools and Programming Languages
 
@@ -13,7 +13,7 @@ My name is PenguinCraft and I am a very knowledgeable person. I currently live i
 
 ## 🎈 My Projects
 
-**Update**: My Discord bot Ultra is currently not available anymore. Development stopped in Summer 2022. Thanks for all support on the project over the years. 
+**Update**: My Discord bot, Ultra is currently not available anymore. Development stopped in Summer 2022. Thanks for all support on the project over the years. 
 
-I currently work on my Discord bot [Ultra](https://dsc.gg/ultra) which includes moderation, utility, and fun commands.
+Old: I currently work on my Discord bot [Ultra](https://dsc.gg/ultra) which includes moderation, utility, and fun commands.
 
