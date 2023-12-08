@@ -1,8 +1,10 @@
 # 👋Hello!
 
-My name is PenguinCraft and I am a developer. I currently reside in the USA.
+(12/07/23) - All the information in this README is updated. 
 
-## 😎 Tools and Programming Languages
+Hey, my name is Penguin and I used to develop things. I put a long pause on developing and don't know when I will return.
+
+## Tools and Programming Languages
 
 <div>
 <img align="left" alt="Visual Studio Code" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/113px-Visual_Studio_Code_1.35_icon.svg.png">
@@ -11,9 +13,6 @@ My name is PenguinCraft and I am a developer. I currently reside in the USA.
 <img align="left" alt="Node.js" width="26px" src="https://i.imgur.com/tYLFZBh.png"/> <br><br>
 </div>
 
-## 🎈 My Projects
+## My Projects
 
-**Update**: My Discord bot, Ultra is currently not available anymore. Development stopped in Summer 2022. Thanks for all support on the project over the years. 
-
-Old: I currently work on my Discord bot [Ultra](https://dsc.gg/ultra) which includes moderation, utility, and fun commands.
-
+I used to develop a Discord bot named Ultra, however I ceased development in Summer 2022.
