@@ -1,8 +1,8 @@
 # 👋Hello!
 
-(12/07/23) - All the information in this README is updated. 
+(03/13/24) - All the information in this README is updated. 
 
-Hey, my name is Penguin and I used to develop things. I put a long pause on developing and don't know when I will return.
+Hey, my name is Penguin. I put a long pause on developing and don't know when I will return.
 
 ## Tools and Programming Languages
 
